@@ -1,11 +1,11 @@
 {
   "disciplinas": [
-    { 
-      "codigo': "MATF81", 
+    {
+      "codigo": "MATF81", 
       "nome": "DESENVOLVIMENTO WEB", 
       "professor": "Frederico Araujo Durao",
       "cargaHoraria": 34,
       "nota": 10 
-     }
+    }
   ]
 }
